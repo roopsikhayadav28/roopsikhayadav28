@@ -51,6 +51,6 @@ What carries over is the fundamentals: data structures, memory, concurrency, and
 
 ## Working with me
 
-Based in India (IST): full-day overlap with Asia and the Middle East, afternoon overlap with Europe. I work in clear milestones and write documentation. I use Claude Code, Cursur, Copilot day to day, and I review every line it writes.
+Based in India (IST): full-day overlap with Asia and the Middle East, afternoon overlap with Europe. I work in clear milestones and write documentation. I use Claude Code, Cursor, Copilot day to day, and I review every line it writes.
 
 [Hire me on Upwork](https://www.upwork.com/freelancers/~01f5712c68e6c77003)
